@@ -1,0 +1,26 @@
+{
+  "name": "@digitalbranch/jwt",
+  "version": "1.0.0",
+  "description": "JWT library for nodejs",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentcorbee/JWT.git"
+  },
+  "keywords": [
+    "JWT"
+  ],
+  "author": "V.J.M. Corbee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincentcorbee/JWT/issues"
+  },
+  "homepage": "https://github.com/vincentcorbee/JWT#readme"
+}
