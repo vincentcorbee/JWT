@@ -7,4 +7,4 @@ const token = JWT.sign(
   secret
 )
 
-console.log(JWT.verify(token, secret))
+assert(JWT.verify(token, secret))

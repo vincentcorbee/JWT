@@ -7,5 +7,5 @@ JWT.createKeys().then(({ privateKey }) => {
     privateKey
   )
 
-  console.log(JWT.verify(token, privateKey))
+  assert(JWT.verify(token, privateKey))
 })
