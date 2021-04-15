@@ -2,6 +2,8 @@
 
 JWT library for nodejs
 
+Supports HS256 and RS256
+
 ## Usage
 
 install with npm
